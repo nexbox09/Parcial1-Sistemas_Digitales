@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/vivado/Parcial1/Parcial1.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/vivado/Parcial1/Parcial1.srcs/sources_1/new/Amarillo.sv,1708928213,systemVerilog,,C:/Users/vivado/Parcial1/Parcial1.srcs/sources_1/new/Rojo.sv,,Amarillo,,uvm,,,,,,
+C:/Users/vivado/Parcial1/Parcial1.srcs/sources_1/new/Rojo.sv,1708927301,systemVerilog,,C:/Users/vivado/Parcial1/Parcial1.srcs/sources_1/new/Suma.sv,,Rojo,,uvm,,,,,,
+C:/Users/vivado/Parcial1/Parcial1.srcs/sources_1/new/Suma.sv,1708931200,systemVerilog,,C:/Users/vivado/Parcial1/Parcial1.srcs/sources_1/new/kogge_stone_4bit_adder.sv,,Suma,,uvm,,,,,,
+C:/Users/vivado/Parcial1/Parcial1.srcs/sources_1/new/kogge_stone_4bit_adder.sv,1708937307,systemVerilog,,,,kogge_stone_4bit_adder,,uvm,,,,,,
